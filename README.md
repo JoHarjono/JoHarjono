@@ -5,6 +5,9 @@
 - 📫 You can reach me via email: joharjono.cr@email.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm also a coffee lover who often seeks cool places for design inspiration.
+- 💻 Check out my CodeWar profile: [CodeWar Profile](https://www.codewars.com/users/joharjonocr)
+- 🚀 View my projects on CodeSandbox: [CodeSandbox Profile](https://codesandbox.io/u/joharjonocr)
+
 
 
 <!---
