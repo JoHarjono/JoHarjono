@@ -1,5 +1,5 @@
-- 👋 Hi, I'm @jo harjono
-- 👀 I'm a web developer with a primary focus on front-end development.
+- 👋 Hi, I'm jo
+- 👀 I'm a web developer and focus on front-end development.
 - 🌱 Currently, I'm learning about the latest technologies in web development such as React.js.
 - 💞️ I'm interested in collaborating on projects that allow me to enhance my skills in designing attractive and responsive user interfaces.
 - ⚡ Fun fact: I'm also a coffee lover who often seeks cool places for design inspiration.
