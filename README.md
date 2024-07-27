@@ -1,7 +1,6 @@
 - 👋 Hi, I'm jo
 - 👀 I'm a web developer and focus on front-end development.
 - 🌱 Currently, I'm learning about the latest technologies in web development such as React.js, Next.js.
-- 💞️ I'm interested in collaborating on projects that allow me to enhance my skills in designing attractive and responsive user interfaces.
 - 📫 You can reach me via email: joharjono.cr@email.com
 - Check out my CodeWar profile: [CodeWar Profile](https://www.codewars.com/users/joharjonocr)
 - View my projects on CodeSandbox: [CodeSandbox Profile](https://codesandbox.io/u/joharjonocr)
