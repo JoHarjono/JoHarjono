@@ -2,7 +2,7 @@
 
 I'm a web developer specializing in frontend development. I am currently expanding my knowledge by exploring React.js and Next.js.
 
-Reach me via email [joharjono.cr@email.com](mailto:joharjono.cr@email.com)
+Reach me via email _[joharjono.cr@email.com](mailto:joharjono.cr@email.com)_
 
 <br/>
 
