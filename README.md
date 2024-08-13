@@ -1,6 +1,6 @@
-## 👋 Hi, I'm Jo
+## 👋🏻 Hi, I'm Jo
 
-I'm a web developer specializing in front-end development. Currently learning modern web technologies like React.js and Next.js.
+I'm a web developer specializing in frontend development. Currently learning modern web technologies like React.js and Next.js.
 
 📧 Reach me via email: [joharjono.cr@email.com](mailto:joharjono.cr@email.com)
 
